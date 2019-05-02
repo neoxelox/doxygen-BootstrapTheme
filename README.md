@@ -5,6 +5,7 @@ Doxygen configuration which generates a web page with Bootstrap 4 components wit
 ### Important use Doxygen <= 1.8.11 !
 
 # Directory Structure
+```
 .
 ├── Docs
 ├── Doxyfile
@@ -32,6 +33,7 @@ Doxygen configuration which generates a web page with Bootstrap 4 components wit
     ├── mainpage.md
     ├── roboto.css
     └── ~online_header.html
+```
 
 # Notes
 All of the above files inside 'utils-bootstrap' are necessary to mantain the web page with Bootstrap without connection.
