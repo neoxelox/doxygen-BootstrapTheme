@@ -37,7 +37,7 @@ Doxygen configuration which generates a web page with Bootstrap 4 components wit
 
 # Notes
 All of the above files inside `utils-bootstrap` are necessary to mantain the web page with Bootstrap offline.
-However, it is preferable, if you know you will host it online, use the html file `~online_header` instead of the default `header` (you can update Bootstrap easily changing the link for the css templates) by changing the name `header` -> `~header` and `~online_header` -> `header`, or setting it inside `Doxyfile` file.
+However, it is preferable, if you know you will host it online, use the html file `~online_header` instead of the default `header` (you can update and change theme (see https://bootswatch.com/) of Bootstrap easily changing the link for the css templates) by changing the name `header` -> `~header` and `~online_header` -> `header`, or setting it inside `Doxyfile` file.
 
 `mainpage.md` is a Markdown file which will be the home page of your generated web page. If you don't want to use it place '~' in front of it's name.
 
