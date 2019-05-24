@@ -41,7 +41,7 @@ However, it is preferable, if you know you will host it online, use the html fil
 
 `mainpage.md` is a Markdown file which will be the home page of your generated web page. If you don't want to use it place '~' in front of it's name.
 
-The folder `Docs` will contain the generated web page (you can change it inside 'Doxyfile' file).
+The folder `Docs` will contain the generated web page (you can change it inside `Doxyfile` file).
 
 The folder `source` will contain the source code where `Doxygen` will parse their info (you can change it inside `Doxyfile` file).
 
